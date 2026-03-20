@@ -91,10 +91,6 @@ Ideate/
 
 Total: 1,752 lines across 8 files.
 
-## Part of Forge Skills
-
-This skill is part of the [Forge Skills](../README.md) collection — 23 production-grade agent skills for modern development.
-
 ## License
 
 MIT
